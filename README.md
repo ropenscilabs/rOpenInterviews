@@ -1,4 +1,4 @@
-# rOpenInterviews
+# rOpenInterviews <img src="hex_logo/rOpenInterviews.png" align="right"/>
 
 ### .rprofile Interviews
 
