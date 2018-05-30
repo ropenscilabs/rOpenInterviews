@@ -2,7 +2,7 @@
 
 ### .rprofile Interviews
 
-[.profile interviews available on rOpenSci blog](https://ropensci.org/tags/rprofile/)
+[.rprofile interviews available on rOpenSci blog](https://ropensci.org/tags/rprofile/)
 
 [Unconf17 project description](https://github.com/ropensci/unconf17/issues/64)
 
@@ -20,3 +20,7 @@
     The interviewer transcribes and edits the audio into written form, and selectively chooses pieces of the recorded screen capture to edit into short GIFs.
     The interviewee makes their own edits or suggestions.
     You have an awesome .Renviron!
+
+### Call to Contribute!
+
+Are you interested in interviewing? Being interviewed? Do you have cool ideas for this project? Get in touch by creating an issue or reaching out to Kelly on twitter [@kellrstats](https://twitter.com/kellrstats)
